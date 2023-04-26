@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(255, 38, 0);
+    font-size: 40px;
+    background-color: darkseagreen ;
+    text-align: center;
+    text-transform: uppercase;
+}
+center{ /*esta es la seccion de la foto de mi cv*/
+    background-color: darkseagreen;
+    
+}
+p {
+    text-align: left;
+    font-family: Verdana;
+
+}
+.destacados {
+    text-align: center;
+    width: 30px;
+}
+p{
+    color: red;
+}
+#caja{
+    text-align: center;
+    background-color: burlywood;
+    width: 350px;
+    height: 650px;
+}
